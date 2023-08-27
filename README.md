@@ -62,6 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sanchezalyssa/sanchezalyssa/output/snake.svg" alt="Snake animation" />
+
 
 ###
