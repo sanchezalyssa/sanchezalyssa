@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 Student, interested in Web Development - 📍   From Quezon City</p>
+<p align="left">- 🔭 Student, interested in Web Development  <br> - 📍   From Quezon City </p>
 
 ###
 
