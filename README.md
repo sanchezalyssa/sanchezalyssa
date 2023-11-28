@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 Student, interested in Web Development<br>- 📚 I'm currently learning React<br>- 📍   From Quezon City</p>
+<p align="left">- 🔭 Student, interested in Web Development - 📍   From Quezon City</p>
 
 ###
 
